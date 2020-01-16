@@ -9,7 +9,7 @@ Page({
     takeSession: false,
     requestResult: '',
     length:10,
-    array: [1, 2, 3, 4, 5],
+    array: [1, 2, 3, 4],
     staffA: {firstName: 'Hulk', lastName: 'Hu'},
     staffB: {firstName: 'Shang', lastName: 'You'},
     staffC: {firstName: 'Gideon', lastName: 'Lin'}
